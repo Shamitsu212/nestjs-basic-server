@@ -7,7 +7,8 @@
 
 ## Используемый стек
 <p>
-  <img src="https://skillicons.dev/icons?i=ts, nest, mongodb" />
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,mongodb" />
 </p>
+
 
 ---
